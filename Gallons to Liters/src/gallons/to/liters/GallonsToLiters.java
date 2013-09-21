@@ -6,7 +6,7 @@ package gallons.to.liters;
 
 /**
  *
- * @author Lorna
+ * @author Lorna Brown
  */
 public class GallonsToLiters {
 
